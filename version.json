@@ -1,7 +1,7 @@
 {
-  "version": "3.0",
-  "date": "2026-04-06",
-  "notes": "Matheon v3.0 최초 릴리즈",
-  "url": "https://drive.google.com/uc?export=download&id=1Rcrq3AtmUAcNSdQQEv1OaC6B-PDPyVeH",
+  "version": "3.1",
+  "date": "2026-04-29",
+  "notes": "Matheon v3.1 릴리즈",
+  "url": "https://github.com/heewonchun-del/matheon-update/releases/download/v3.1/Matheon_Setup.exe",
   "reboot_required": "true"
 }  
