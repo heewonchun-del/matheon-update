@@ -1,0 +1,17 @@
+{
+  "version": "4.1.0",
+  "date": "2026-09-26",
+  "notes": "마테온 4.1.0 — 한국어·영어·독일어·프랑스어·스페인어·러시아어·중국어·일본어·아랍어 등 9개 언어 지원.\nNVDA 환경에서도 화면 출력 지원.",
+  "notes_ko": "마테온 4.1.0 — 한국어·영어·독일어·프랑스어·스페인어·러시아어·중국어·일본어·아랍어 등 9개 언어 지원.\nNVDA 환경에서도 화면 출력 지원.",
+  "notes_en": "Matheon 4.1.0 — Nine languages: Korean, English, German, French, Spanish, Russian, Chinese, Japanese, Arabic.\nScreen output supported under NVDA.",
+  "notes_de": "Matheon 4.1.0 — Neun Sprachen: Koreanisch, Englisch, Deutsch, Französisch, Spanisch, Russisch, Chinesisch, Japanisch, Arabisch.\nBildschirmausgabe auch unter NVDA.",
+  "notes_fr": "Matheon 4.1.0 — Neuf langues : coréen, anglais, allemand, français, espagnol, russe, chinois, japonais, arabe.\nAffichage à l'écran pris en charge sous NVDA.",
+  "notes_es": "Matheon 4.1.0 — Nueve idiomas: coreano, inglés, alemán, francés, español, ruso, chino, japonés, árabe.\nSalida en pantalla compatible con NVDA.",
+  "notes_ru": "Matheon 4.1.0 — Девять языков: корейский, английский, немецкий, французский, испанский, русский, китайский, японский, арабский.\nВывод на экран поддерживается с NVDA.",
+  "notes_zh": "Matheon 4.1.0 — 支持九种语言：韩语、英语、德语、法语、西班牙语、俄语、中文、日语、阿拉伯语。\nNVDA 环境下也支持屏幕输出。",
+  "notes_ja": "Matheon 4.1.0 — 韓国語・英語・ドイツ語・フランス語・スペイン語・ロシア語・中国語・日本語・アラビア語の9言語対応。\nNVDA環境でも画面出力をサポート。",
+  "notes_ar": "Matheon 4.1.0 — تسع لغات: الكورية والإنجليزية والألمانية والفرنسية والإسبانية والروسية والصينية واليابانية والعربية.\nدعم إخراج الشاشة مع NVDA.",
+  "url": "https://github.com/heewonchun-del/matheon-update/releases/download/v4.1.0/Matheon_Setup.exe",
+  "sha256": "7d3a82394ad9f6350f9693634efd1f3da292f73c48a4c2c6a36259f48677f9b6",
+  "reboot_required": false
+}
