@@ -1,7 +1,7 @@
 {
   "version": "4.1.0",
   "date": "2026-09-26",
-  "notes": "Matheon 4.1.0 — Nine languages: Korean, English, German, French, Spanish, Russian, Chinese, Japanese, Arabic. Screen output supported under NVDA.",
+  "notes": "마테온 4.1.0 — 한국어·영어·독일어·프랑스어·스페인어·러시아어·중국어·일본어·아랍어 등 9개 언어 지원. NVDA 환경에서도 화면 출력 지원.",
   "notes_ko": "마테온 4.1.0 — 한국어·영어·독일어·프랑스어·스페인어·러시아어·중국어·일본어·아랍어 등 9개 언어 지원. NVDA 환경에서도 화면 출력 지원.",
   "notes_en": "Matheon 4.1.0 — Nine languages: Korean, English, German, French, Spanish, Russian, Chinese, Japanese, Arabic. Screen output supported under NVDA.",
   "notes_de": "Matheon 4.1.0 — Neun Sprachen: Koreanisch, Englisch, Deutsch, Französisch, Spanisch, Russisch, Chinesisch, Japanisch, Arabisch. Bildschirmausgabe auch unter NVDA.",
